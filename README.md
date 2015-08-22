@@ -1,4 +1,4 @@
-# GettingAndCleaningData_CourseProject
+# GettingAndCleaningData_CourseProject: Readme
 
 This script will do the following;
 
